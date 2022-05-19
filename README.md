@@ -1,1 +1,1 @@
-Hello Viewers. These are my java programs. I hope it will helpful for you..
+Hello Viewers. These are my java programs. I hope it will help you.
